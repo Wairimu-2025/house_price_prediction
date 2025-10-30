@@ -31,4 +31,4 @@ This project uses **Linear Regression** to predict house prices based on area (i
 
 ---
 
-👩‍💻 *Created by [Ann Kiarie]
+👩‍💻 *Created by Ann Kiarie
