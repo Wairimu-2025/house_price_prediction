@@ -20,7 +20,7 @@ This project uses **Linear Regression** to predict house prices based on area (i
 | R² | 0.92 |
 
 ## 📈 Visualization
-![Regression Plot](house_price_prediction.png)
+![Regression Plot](house_price_prediction_lr.png)
 
 ## 🧰 Tools Used
 - Python
